@@ -1,2 +1,2 @@
 # Hyprland-DotFiles
-Just my hyprland config
+Just my hyprland config for Arch Linux
